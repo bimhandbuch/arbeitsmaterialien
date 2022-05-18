@@ -12,10 +12,8 @@ Viel Spaß beim Lesen! 😃
 
 *Die BIM-Handbuch-Redaktion*
 
-[![CC BY 4.0][cc-by-shield]][cc-by]
 
-Diese Arbeit unterliegt den Bestimmungen einer
-[Creative Commons Namensnennung 4.0 International-Lizenz][cc-by].
+Diese Lern- und Lehrressourcen werden unter den Vorgaben der Lizenz [Creative Commons Attribution 4.0 International][cc-by] zur Verfügung gestellt.
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
