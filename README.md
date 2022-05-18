@@ -12,7 +12,7 @@ Viel Spaß beim Lesen! 😃
 
 *Die BIM-Handbuch-Redaktion*
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+[![CC BY 4.0][cc-by-shield]][cc-by]
 
 Diese Arbeit unterliegt den Bestimmungen einer
 [Creative Commons Namensnennung 4.0 International-Lizenz][cc-by].
